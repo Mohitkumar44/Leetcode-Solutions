@@ -11,12 +11,13 @@ public:
         }
         int i = 0, j = n/2;
         int cnt = 0;
+        if(l > r) cnt++;
         for(int k = 0; k < n; k++) {
-            if(l == r) cnt++;
             l -= nums[i];
             r += nums[i];
             l += nums[j];
             r -= nums[j];
+            if(l > r) cnt++;
         }
         return cnt;
     }
