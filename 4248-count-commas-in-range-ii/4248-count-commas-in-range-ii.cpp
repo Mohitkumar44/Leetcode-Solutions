@@ -6,20 +6,20 @@ public:
             cnt += 5*(n-999999999999999);
             n = 999999999999999;
         }
-        if( (long long)n >= (long long)1000000000000) {
-            cnt += (long long)((long long)4*(long long)((long long)n-(long long)999999999999));
-            n = (long long)999999999999;
+        if(n >= 1000000000000) {
+            cnt += 4*(n-999999999999);
+            n = 999999999999;
         }
-        if( (long long)n >= (long long)1000000000) {
-            cnt += (long long)((long long)3*(long long)((long long)n-(long long)999999999));
-            n = (long long)999999999;
+        if(n >= 1000000000) {
+            cnt += 3*(n-999999999);
+            n = 999999999;
         }
-        if( (long long)n >= (long long)1000000) {
-            cnt += (long long)((long long)2*(long long)((long long)n-(long long)999999));
-            n = (long long)999999;
+        if(n >= 1000000) {
+            cnt += 2*(n-999999);
+            n = 999999;
         }
-        if( (long long)n >= (long long)1000) {
-            cnt += (long long)((long long)n-(long long)999);
+        if(n >= 1000) {
+            cnt += 2*(n-999);
         }
         return cnt;
     }
