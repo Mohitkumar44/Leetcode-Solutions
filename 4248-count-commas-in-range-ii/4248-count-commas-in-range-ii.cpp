@@ -7,7 +7,7 @@ public:
         else if( n < (long long)1000000000) return (long long)((long long)n-(long long)9999999);
         else if( n < (long long)100000000000) return (long long)((long long)n-(long long)999999999);
         else if( n < (long long)10000000000000) return (long long)((long long)n-(long long)99999999999);
-        else if( n < (long long)1000000000000000) return (long long)((long long)n-(long long)9999999999999);
+        // else if( n < (long long)1000000000000000) return (long long)((long long)n-(long long)9999999999999);
         return -1;
     }
 };
