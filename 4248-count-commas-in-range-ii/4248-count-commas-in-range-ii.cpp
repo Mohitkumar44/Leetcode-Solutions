@@ -24,7 +24,7 @@ public:
             n = (long long)9999999;
         }
         if( (long long)n > (long long)100000) {
-            cnt += (long long)((long long)n-(long long)999);
+            cnt += (long long)((long long)n-(long long)99999);
             n = (long long)999;
         }
         if( (long long)n > (long long)1000) {
