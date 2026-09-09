@@ -8,7 +8,7 @@ public:
         }
         if( (long long)n > (long long)100000) {
             cnt += (long long)((long long)2*(long long)((long long)n-(long long)99999));
-            n = (long long)999;
+            n = (long long)99999;
         }
         if( (long long)n > (long long)1000) {
             cnt += (long long)((long long)n-(long long)999);
