@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
