@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -24,10 +25,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
