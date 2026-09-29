@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         int n = numbers.size();
+        // T.C. --> O(nlog(n))
+        // S.C. --> O(1);
         for(int i = 0; i < n && target - numbers[i] >= numbers[i]; i++) {
             int temp = target - numbers[i];
             int lo = i+1;
