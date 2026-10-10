@@ -16,17 +16,17 @@ public:
                         if(open > 0) {
                             open--;
                         }
-                        else {   //s[i] == '('
+                        else {   //open == 0
                             ans++;
                         }
                         i += 2;
                     }
-                    else {   
+                    else {   //s[i] == '('
                         if(open > 0) {
                             open--;
                             ans++;
                         }
-                        else {   //s[i] == '('
+                        else {   //open == 0
                             ans += 2;
                         }
                         i++;
