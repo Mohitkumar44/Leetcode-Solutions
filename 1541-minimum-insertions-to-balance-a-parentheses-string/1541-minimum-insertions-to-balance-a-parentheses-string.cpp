@@ -2,49 +2,31 @@ class Solution {
 public:
     int minInsertions(string s) {
         int n = s.size();
-        int i = 0;
-        int open = 0;
+        int count = 0;
         int ans = 0;
+        int i = 0;
         while(i < n) {
             if(s[i] == '(') {
-                open++;
+                count++;
                 i++;
             }
-            else {    // s[i] == ')'
-                if(i + 1 < n) {
-                    if(s[i + 1] == ')') {
-                        if(open > 0) {
-                            open--;
-                        }
-                        else {   //open == 0
-                            ans++;
-                        }
-                        i += 2;
-                    }
-                    else {   //s[i] == '('
-                        if(open > 0) {
-                            open--;
-                            ans++;
-                        }
-                        else {   //open == 0
-                            ans += 2;
-                        }
-                        i++;
-                    }
+            else { // s[i] == ')'
+                if(count > 0) {
+                    count--;
                 }
-                else { // index is out of bound
-                    if(open > 0) {
-                        open--;
-                        ans++;
-                    }
-                    else {
-                        ans += 2;
-                    }
-                    break;
+                else {
+                    ans++;   // if count is negative.
+                }
+
+                if(i + 1 < n && s[i + 1] == ')') {  //checking i+1.
+                    i += 2;
+                }
+                else {
+                    i += 1;
+                    ans++;     //next bracket is open or does not exist.
                 }
             }
         }
-        if(open > 0) ans += open*2;
-        return ans;
+        return ans + count*2;   //result
     }
 };
