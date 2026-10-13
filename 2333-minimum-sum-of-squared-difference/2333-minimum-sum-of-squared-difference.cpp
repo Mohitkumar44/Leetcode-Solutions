@@ -8,7 +8,7 @@ public:
         }
 
         int t = k1+k2;
-        for(int i = 100000; i > 0; i--) {
+        for(int i = 100000; i > 0 && t > 0; i--) {
             if(v[i] > 0) {
                 int cnt = min(t, v[i]);
                 v[i] -= cnt;
