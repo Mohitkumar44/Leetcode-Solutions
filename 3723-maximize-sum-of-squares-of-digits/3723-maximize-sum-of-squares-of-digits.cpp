@@ -4,7 +4,7 @@ public:
         if(9*num < sum) return "";
         int cnt = num;
         string ans = "";
-        while(cnt) {
+        while(cnt && sum) {
             if(sum >= 9) {
                 ans += '9';
                 sum -= 9;
@@ -13,6 +13,10 @@ public:
                 ans += to_string(sum);
                 sum = 0;
             }
+            cnt--;
+        }
+        while(cnt) {
+            ans += '0';
             cnt--;
         }
         return ans;
