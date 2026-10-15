@@ -39,6 +39,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -102,4 +103,16 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
