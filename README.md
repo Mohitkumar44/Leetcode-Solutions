@@ -14,6 +14,7 @@
 | [0020-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
