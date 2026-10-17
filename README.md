@@ -41,6 +41,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -109,6 +111,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
