@@ -38,6 +38,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
