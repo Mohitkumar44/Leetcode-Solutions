@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minOperations(string s) {
+        // T.C. O(nlogn).
         string str = s;
         sort(str.begin(), str.end());
         if(str == s) return 0;
