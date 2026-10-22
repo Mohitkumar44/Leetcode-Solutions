@@ -13,22 +13,17 @@ public:
                 inc++;
                 incIdx = i;
             } 
-            else if(last > nums[i]) {
+            else {
                 dec++;
                 decIdx = i;
             }
             last = nums[i];
         }
         if(inc >= 2 && dec >= 2) return -1;
-        // cout<<inc<<" "<<dec;
-        if(inc >= 2) {
-            return decIdx;
-        }
-        else {
-            return incIdx + 1;
-        }
+        else if(inc >= 2) return decIdx;
+        else return incIdx + 1;
     }
-    int minOperations(vector<int>& nums) {
+    int minOperations(vector<int>& nums) {  //T.C. = O(n);
         int a = minoper(nums);
         reverse(nums.begin(), nums.end()); 
         int b = 1 + minoper(nums);
