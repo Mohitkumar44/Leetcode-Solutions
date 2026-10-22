@@ -21,6 +21,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -117,6 +120,7 @@
 | [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -125,4 +129,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 <!---LeetCode Topics End-->
