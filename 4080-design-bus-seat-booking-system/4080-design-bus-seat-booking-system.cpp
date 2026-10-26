@@ -1,3 +1,5 @@
+// T.C. O(n) where n is number of operations.
+// All operations are performed in constant time.
 class BusBooking {
 public:
     vector<vector<int>> book;
