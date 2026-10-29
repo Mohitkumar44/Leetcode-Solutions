@@ -1,11 +1,9 @@
 class Solution {
 public:
-    int m, n;
-    vector<vector<vector<int>>> dp;
     int minCost(vector<vector<int>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
-        dp.resize(m, vector<vector<int>> (n, vector<int> (1025, 0)));
+        // T.C. = O(m*n*k) where k is max of grid[i][j];
+        int m = grid.size(), n = grid[0].size();
+        vector<vector<vector<int>>> dp(m, vector<vector<int>> (n, vector<int> (1025, 0)));
         dp[0][0][grid[0][0]] = 1;
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
