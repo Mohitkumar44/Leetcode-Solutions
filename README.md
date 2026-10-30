@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -32,6 +34,7 @@
 | [0022-generate-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
