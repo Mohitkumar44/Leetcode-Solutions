@@ -36,6 +36,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -53,6 +54,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -151,5 +153,6 @@
 ## Matrix
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
