@@ -48,6 +48,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -123,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
