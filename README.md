@@ -50,6 +50,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -162,4 +163,8 @@
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
