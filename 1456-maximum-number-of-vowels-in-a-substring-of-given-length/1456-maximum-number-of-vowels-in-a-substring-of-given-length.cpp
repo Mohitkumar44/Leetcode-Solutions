@@ -1,10 +1,11 @@
 class Solution {
 public:
-    bool check(char s) {
+    bool check(char& s) {
         if(s == 'a' || s == 'e' || s == 'i' || s == 'o' || s == 'u') return true;
         return false;
     }
     int maxVowels(string s, int k) {
+        // T.C. = O(n).
         int n = s.size();
         int cnt = 0;
         for(int i = 0; i < k; i++) {
