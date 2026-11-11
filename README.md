@@ -41,6 +41,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -63,6 +64,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
