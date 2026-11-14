@@ -66,6 +66,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -182,8 +183,13 @@
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
