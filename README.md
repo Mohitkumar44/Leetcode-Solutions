@@ -41,6 +41,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [1092-shortest-common-supersequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -59,6 +60,7 @@
 | [0213-house-robber-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0741-cherry-pickup](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -176,6 +178,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0741-cherry-pickup](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
