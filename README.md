@@ -16,6 +16,7 @@
 | [0020-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -36,6 +37,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
