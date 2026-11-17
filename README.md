@@ -77,6 +77,7 @@
 | [3693-climbing-stairs-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -153,6 +154,7 @@
 | [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
