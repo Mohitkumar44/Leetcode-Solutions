@@ -29,6 +29,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
