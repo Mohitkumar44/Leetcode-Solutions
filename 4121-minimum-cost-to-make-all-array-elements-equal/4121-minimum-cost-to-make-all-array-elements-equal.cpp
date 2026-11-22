@@ -2,7 +2,7 @@ class Solution {
 public:
     long long minCost(vector<int>& nums) {
         int n = nums.size();
-        long long cost = LLONG_MAX;
+        long long cost = LLONG_MAX;    // INT_MAX --> LLONG_MAX
         vector<int> pre(n, 1);
         vector<int> suff(n, 1);
         vector<int> suffIdx(n, n-1);
