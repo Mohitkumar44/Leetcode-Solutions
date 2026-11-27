@@ -67,6 +67,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0741-cherry-pickup](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -209,6 +211,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
@@ -222,4 +225,12 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
