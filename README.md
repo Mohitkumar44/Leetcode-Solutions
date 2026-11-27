@@ -51,6 +51,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Manacher
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohitkumar44/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
